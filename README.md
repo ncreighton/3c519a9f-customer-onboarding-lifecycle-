@@ -1,2 +1,30 @@
-# 3c519a9f-customer-onboarding-lifecycle-
-Notion workspace for SaaS customer success teams managing customer onboarding and lifecycle health. Includes a customer account database with health score, NPS, MRR, and lifecycle stage. Features an onboarding checklist per customer with completion tracking, QBR preparation templates, risk register for churn prediction, expansion opportunity pipeli
+# Customer Onboarding Lifecycle Tracking Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/9B67sL12D8Is9JKgUccZa3d)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/9B67sL12D8Is9JKgUccZa3d)
+- [Buy on Whop](https://whop.com/customer-onboarding-lifecycle-tracking-notion-template)
+
